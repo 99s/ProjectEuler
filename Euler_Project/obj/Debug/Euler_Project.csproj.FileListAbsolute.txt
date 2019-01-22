@@ -1,0 +1,6 @@
+D:\OpenCode\CS\Euler_Project\Euler_Project\bin\Debug\Euler_Project.exe.config
+D:\OpenCode\CS\Euler_Project\Euler_Project\bin\Debug\Euler_Project.exe
+D:\OpenCode\CS\Euler_Project\Euler_Project\bin\Debug\Euler_Project.pdb
+D:\OpenCode\CS\Euler_Project\Euler_Project\obj\Debug\Euler_Project.csprojResolveAssemblyReference.cache
+D:\OpenCode\CS\Euler_Project\Euler_Project\obj\Debug\Euler_Project.exe
+D:\OpenCode\CS\Euler_Project\Euler_Project\obj\Debug\Euler_Project.pdb
